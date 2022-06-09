@@ -1,5 +1,4 @@
 # Руслан Мац
-======
 
 ![kubrick](img/kubrick.jpg)
 
